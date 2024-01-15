@@ -31,8 +31,8 @@ This project is a rudimentary software solution for managing a bookstore's inven
 **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/bookstore-inventory.git
-   cd bookstore-inventory
+   git clone https://github.com/yolowski96/books-warehouse-service.git
+   cd books-warehouse-service
    ```
 **Install dependencies:**
 ```node
